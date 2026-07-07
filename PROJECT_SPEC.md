@@ -36,7 +36,7 @@ Secondary References
 
 # Database Platforms
 
-Cover only administration and infrastructure.
+Cover administration and infrastructure for:
 
 * SQLite
 * MySQL
@@ -78,12 +78,11 @@ Requirements:
 * Production-oriented
 * Technically accurate
 * Clear English
-* Avoid unnecessary jargon
-* Explain why each configuration matters
+* Explain why every configuration matters
 * Explain common mistakes
 * Explain production best practices
 
-Never assume the reader already knows the topic.
+Never assume prior knowledge.
 
 ---
 
@@ -199,9 +198,9 @@ Network topology
 
 Private vs Public IP
 
-Application Server
+Application Server connectivity
 
-Database Server
+Database Server placement
 
 Firewall Rules
 
@@ -475,6 +474,8 @@ Use relative links only.
 linux-db-admin-book/
 
 README.md
+
+PROJECT_SPEC.md
 
 SUMMARY.md
 
